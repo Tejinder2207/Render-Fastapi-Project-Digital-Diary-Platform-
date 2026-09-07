@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import date
 
-API = "http://127.0.0.1:8000"
+API = "https://digital-diary-api.onrender.com"
 
 # Page config
 st.set_page_config(page_title="Digital Diary", page_icon="📔", layout="wide")
